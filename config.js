@@ -542,7 +542,6 @@ var config = {
     title:  'SNAPSHOT of the CRF project Central African Republic Jul 2023',
     //subtitle: 'A descriptive and interesting subtitle to draw in the reader',
     byline: 'By a UNOPS CAR dreamData team',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'slug-style-id',
